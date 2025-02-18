@@ -46,4 +46,3 @@ JobDekho is a comprehensive job portal designed to connect job seekers with empl
 
 - Node.js (version >= 14.x)
 - MongoDB (for local development) or cloud MongoDB service like MongoDB Atlas
-
